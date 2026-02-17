@@ -81,7 +81,7 @@ We take reasonable measures to protect your data. Because data stores locally on
 -choose what data to enter
 -delete entries at any time
 -disconnect wearable devices
--yearly subscriptions renew automatically unless you cancel in Apple ID account settings***.
+-yearly subscriptions renew automatically unless you cancel in Apple ID account settings¹.
 -uninstall the App to remove all stored data
 
 8. Children’s Privacy
@@ -116,11 +116,18 @@ Features include:
 -Privacy-focused design 
 Connected Dreams Restore supports awareness and personal wellness reflection without providing medical diagnosis or treatment recommendations.
 
+## Requirements for use
+
+• A compatible mobile device (iOS or Android) 
+• Bluetooth support enables optional connection to compatible wearable device
+• iOS 15 or later  
+• Internet connection for subscription verification
+
+
 
 **Intended for wellness and educational purposes only.
 
-***Subscription: 
-Subscription Terms
+¹ Subscription Terms  
 • Auto-renewable yearly subscription
 • Payment is charged to your Apple ID account at confirmation of purchase
 • Subscription renews automatically unless canceled at least 24 hours before the end of the current period
