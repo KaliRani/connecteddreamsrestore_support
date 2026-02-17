@@ -1,7 +1,7 @@
 # Connected Dreams Restore Support
 Official support and documentation for Connected Dreams Restore.
 
-# Connected Dreams Restore
+# Connected Dreams Restore Privacy Policy
 
 Restore. Recover. Recalibrate.
 
