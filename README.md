@@ -1,4 +1,4 @@
-# connecteddreamsrestore_support
+# Connected Dreams Restore Support
 Official support and documentation for Connected Dreams Restore.
 
 # Connected Dreams Restore
