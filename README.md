@@ -108,11 +108,11 @@ Email: manisha71@zohomail.com
 Connected Dreams Restore app design supports sleep recovery, physiological awareness, and daily reflection.
 The app integrates wearable sensor data with self-reported wellness input to provide a clear picture of recovery, sleep patterns, and daily performance readiness.
 Features include:
--Heart rate and HRV tracking from compatible wearable devices
+-Heart rate and HRV tracking from compatible wearable devices or from your local device camera
 -Sleep timing and recovery insights
 -Glucose and wellness data logging (optional)
 -Daily reflection and performance tracking
--Exportable data for personal tracking and review
+-Optional exportable data for personal tracking and review
 -Privacy-focused design 
 Connected Dreams Restore supports awareness and personal wellness reflection without providing medical diagnosis or treatment recommendations.
 
@@ -132,6 +132,8 @@ Connected Dreams Restore supports awareness and personal wellness reflection wit
 • Payment is charged to your Apple ID account at confirmation of purchase
 • Subscription renews automatically unless canceled at least 24 hours before the end of the current period
 • Manage or cancel in Apple ID account settings
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 
 ---
