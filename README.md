@@ -1,5 +1,6 @@
 # Connected Dreams Restore Support
 Official support and documentation for Connected Dreams Restore.
+https://cdrestore.carrd.co/
 
 # Connected Dreams Restore Privacy Policy
 
